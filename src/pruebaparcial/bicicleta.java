@@ -51,8 +51,5 @@ public class bicicleta {
         this.precio = precio;
     }
     
-    
-   
-    
-    
+      
 }
